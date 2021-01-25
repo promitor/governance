@@ -1,2 +1,3 @@
-# GitHub Template
-GitHub template for all my future GitHub repos
+![Logo](./logos/promitor-small.png)
+
+Provides resources related to governance of Promitor.
