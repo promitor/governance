@@ -6,7 +6,7 @@ Provides resources related to governance of Promitor.
 
 Learn more about our support options [here](https://github.com/tomkerkhove/promitor/blob/master/SUPPORT.md).
 
-[Sponsors](media/sponsor-overview.png)
+![Sponsors](media/sponsor-overview.png)
 
 ## Donate
 
